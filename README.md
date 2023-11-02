@@ -86,5 +86,4 @@ Here's an example of the scraped data for a company:
   'Logo URL': ['https://static.ambitionbox.com/alpha/company/photos/logos/tcs.jpg']
 }
 ```
-[Video On WebScraping](https://www.youtube.com/watch?v=4tAp9Lu0eDI&t=280s)
 [companies_dataset.csv](https://github.com/Nileshshinde09/Web-Scraping-On-Top-Companies-Data/files/13236283/companies_dataset.csv)
